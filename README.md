@@ -17,10 +17,8 @@ Desarrollador **frontend** de Puigmoreno (Teruel), afincado en Zaragoza desde ha
 |---|---|
 | [billar](https://github.com/carlosdi0/billar) | Billar bola 8 en un saloon del Oeste. Three.js, todo procedural |
 | [eclipse-2026](https://github.com/carlosdi0/eclipse-2026) | Presentación divulgativa del eclipse solar total de 2026 |
-| [miri-camara](https://github.com/carlosdi0/miri-camara) | La Jornada de Miri: control de jornada laboral |
 | [mcu](https://github.com/carlosdi0/mcu) | Guía de visionado del Universo Cinematográfico Marvel por orden de estreno |
 | [simulador-hipoteca](https://github.com/carlosdi0/simulador-hipoteca) | Simulador de hipoteca para Aragón en una sola página |
-| [rocketcalendar](https://github.com/carlosdi0/rocketcalendar) | Datepicker en TypeScript |
 
 Mucho de lo que hago vive en repos privados: PWAs, un juego de colonos en 3D, un asistente personal multiplataforma, webs de boda, un explorador de licencias de obra sobre mapa o una maqueta 3D de un pueblo de Teruel.
 
